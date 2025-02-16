@@ -1,6 +1,7 @@
-# PingChat
+# Server_Client_Based_Chat_Application
 
-PingChat is a server-client based chat application designed to facilitate real-time communication over a network. The project emphasizes reliability, speed. The project utilizes socket programming for network connectivity and Java Swing for the graphical user interface (GUI).
+
+server-client based chat application designed to facilitate real-time communication over a network. The project emphasizes reliability, speed. The project utilizes socket programming for network connectivity and Java Swing for the graphical user interface (GUI).
 
 ## Features
 
